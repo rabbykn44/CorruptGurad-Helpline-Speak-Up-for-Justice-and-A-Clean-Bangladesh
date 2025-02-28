@@ -89,4 +89,4 @@ This project is licensed under the **MIT License**.
 ---
 
 ## Contact
-For any inquiries or contributions, reach out to **Md. Jubayerul Hasan Mahin**.
+For any inquiries or contributions, reach out to **Md.Rabby Khan**.
